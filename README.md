@@ -12,7 +12,7 @@ The ultimate goal of this Tetris clone was to learn the basics of Swift (Darwin 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/user-attachments/assets/83b4b10a-46b4-4042-a1fe-0cdce4d55910" width="300"><img src="https://github.com/user-attachments/assets/b104d079-5176-4ab6-bbf9-17d1e33e3280" width="300"><img src="https://github.com/user-attachments/assets/2585dfe6-9c14-44c4-b918-fceb84101154" width="300">
+    <img src="https://github.com/user-attachments/assets/83b4b10a-46b4-4042-a1fe-0cdce4d55910" width="200"><img src="https://github.com/user-attachments/assets/b104d079-5176-4ab6-bbf9-17d1e33e3280" width="200"><img src="https://github.com/user-attachments/assets/2585dfe6-9c14-44c4-b918-fceb84101154" width="200">
     <br/>
     <ul>
         <li> Three screen were developed in the process, the first one was the game screen, where all the magic happens.</li> 
